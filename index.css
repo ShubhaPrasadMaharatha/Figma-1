@@ -1,0 +1,73 @@
+section {
+    line-height: 72pt;
+    position: relative;
+    top: 52px;
+    font-weight: bolder;
+    font-size: x-large;
+}
+
+.box1 {
+    position: relative;
+    left: 45px;
+
+}
+header{
+    background-color:rgb(245, 181, 159);
+     height:60% ;display: flex;
+}
+b{
+    font-size: x-large;
+}
+.input{position: relative;
+     left:-5px;border:3px solid black; 
+     border-radius: 5px;
+
+}
+button{
+    color: aliceblue; background-color:black; 
+    padding:4px;
+    border-radius: 5px;
+}
+span{
+    font-size: 11px; font-weight: bold;
+}
+img{
+    position: relative; left: 225px;
+}
+p{font-size: 12px; 
+    line-height: 6pt;
+
+}
+.sm-box{
+    color: aliceblue; position: relative; left: 76px; bottom: -12px;
+}
+.footbox{
+    background-color: rgb(29, 26, 26); 
+    height:30vh; 
+    display: flex;
+
+}
+.sm2-box{
+    position: relative;
+    left:857px ;
+    color: aliceblue;
+    bottom: -12px;
+}
+.sm3-img{
+    display: flex;
+    justify-content: space-around;
+}
+#p1{
+    position: relative;
+    right: -77px;
+}
+#p2{
+    position: relative;
+    right: -82px;
+}
+.lastline{
+    position: relative;
+    right: -7px;
+   bottom: -25px;
+    
+}
